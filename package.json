@@ -1,0 +1,16 @@
+{
+  "name": "twilight-color-adjusted-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Twilight syntax theme for GitHub's Atom IDE with adjusted colors",
+  "keywords": [
+    "theme",
+    "twilight",
+    "textmate"
+  ],
+  "repository": "https://github.com/dustinwilson/twilight-color-adjusted-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
