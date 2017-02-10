@@ -1,7 +1,7 @@
 {
   "name": "twilight-color-adjusted-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Twilight syntax theme for GitHub's Atom IDE with adjusted colors",
   "keywords": [
     "theme",
